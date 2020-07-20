@@ -1,0 +1,16 @@
+{
+  "name": "tanzanite-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Light Syntax Theme for Tanzanite Silicon Solutions Inc",
+  "keywords": [
+    "syntax",
+    "theme",
+    "tanzanite"
+  ],
+  "repository": "https://github.com/hborchew/tanzanite-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
